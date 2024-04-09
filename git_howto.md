@@ -20,3 +20,7 @@ ls
 ```sh
 git init
 ```
+Статус папки
+```sh
+git status
+```
