@@ -32,3 +32,8 @@ git add \file name
 ```sh
 git commit -m "Message"
 ```
+Показать журнал изменений
+```sh
+git log
+```
+
