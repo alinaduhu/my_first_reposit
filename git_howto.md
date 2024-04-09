@@ -16,3 +16,7 @@ MacOs, Linux
 ```sh
 ls
 ```
+Создание репозитория
+```sh
+git init
+```
