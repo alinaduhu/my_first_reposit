@@ -4,4 +4,8 @@
 ```sh
 cd c:\folder__name
 ```
+Команда отображения текущей директории MacOs, Linux
+```sh
+pwd
+```
 
