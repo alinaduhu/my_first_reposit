@@ -24,3 +24,7 @@ git init
 ```sh
 git status
 ```
+Команда для добавления и сохранения файла 
+```sh
+git add \file name
+```
