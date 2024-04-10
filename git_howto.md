@@ -32,7 +32,7 @@ git add \file name
 ```
 Команда для записи индексированных изменений в репозитории
 ```sh
-git commit -m "Message"
+git commit -m "Message text"
 ```
 Показать журнал изменений
 ```sh
