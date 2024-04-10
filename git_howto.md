@@ -41,7 +41,7 @@ git log
 ## Работа с ветками
 Переключение между ветками
 ```sh
-git checkout <branch main>
+git checkout <branch name>
 ```
 Отображение всех веток
 ```sh 
