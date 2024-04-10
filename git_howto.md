@@ -34,6 +34,7 @@ git add \file name
 ```sh
 git commit -m "Message text"
 ```
+
 Показать журнал изменений
 ```sh
 git log
