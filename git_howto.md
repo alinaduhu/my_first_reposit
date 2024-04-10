@@ -42,7 +42,7 @@ git log
 ## Работа с ветками
 Переключение между ветками
 ```sh
-git checkout <имя_ветки>
+git checkout <branch_name>
 ```
 Отображение всех веток
 ```sh 
@@ -50,11 +50,15 @@ git branch
 ```
 Создание новой ветки
 ```sh
-git branch <имя новой ветки>
+git branch <branch_name>
 ```
 Удаление выбранной ветки
 ```sh
-git branch -d <branch name>
+git branch -d <branch_name>
+```
+Объединяет две ветки
+```sh
+git merge <branch_name>
 ```
 ## Работа изображениями
 Так выглядит git 
