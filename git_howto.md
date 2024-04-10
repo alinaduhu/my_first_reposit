@@ -52,9 +52,9 @@ git branch
 ```sh
 git branch <имя новой ветки>
 ```
-Удаление  ветки
+Удаление выбранной ветки
 ```sh
-git branch -d <имя ветки>
+git branch -d <branch name>
 ```
 ## Работа изображениями
 Так выглядит git 
