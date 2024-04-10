@@ -39,7 +39,14 @@ git commit -m "Message"
 git log
 ```
 ## Работа с ветками
-
+Переключение между ветками
+```sh
+git checkout <branch main>
+```
+Отображение всех веток
+```sh 
+git branch
+```
 ## Работа с изображениями
 Так выглядит git
 ![git](загрузка.png)
