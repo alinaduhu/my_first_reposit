@@ -77,3 +77,7 @@ git push -u ogigin main
 ```sh
 git pull
 ```
+Отправить изменения в новой ветке в удаленный репозиторий
+```sh
+git push --set-upstream origin <branch_name>
+```
