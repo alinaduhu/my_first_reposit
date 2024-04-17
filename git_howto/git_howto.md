@@ -81,3 +81,7 @@ git pull
 ```sh
 git push --set-upstream origin <branch_name>
 ```
+Удалить ветку в удаленнои репозитории
+```sh
+git push origin --delete <branch_name>
+```
