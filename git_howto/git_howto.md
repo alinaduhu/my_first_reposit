@@ -85,3 +85,11 @@ git push --set-upstream origin <branch_name>
 ```sh
 git push origin --delete <branch_name>
 ```
+Скачать все репозитории чтобы слить наши изменения
+```sh
+git pull --rebase
+```
+Скопировать себе на компьютер сторонний репозиторий
+```sh
+git clone <https://github.com/name>
+```
